@@ -1,2 +1,2 @@
-# xPro-Game-Tower-of-Hanoi
+# xPro Game Hanoi Tower
 Tower of Hanoi game in React.
